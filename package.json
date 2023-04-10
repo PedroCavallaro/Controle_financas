@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.2"
+  },
+  "name": "ex-controlefinancas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "json-server": "json-server --watch db.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
